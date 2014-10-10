@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CheshireC"
+  id="myeclipse.1412743472462"
+  context-root="/CheshireC"
+  j2ee-spec="5.0"
+  archive="CheshireC.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
